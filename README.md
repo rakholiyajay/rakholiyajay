@@ -1,3 +1,12 @@
+## Hi there 👋👋
+
+🔭 I’m currently working as **Frontend Developer**<br/>
+🌱 I’m currently learning **React Js,Html, Css, Javascript, Web3 js**<br/>
+👯 I’m looking to collaborate on **Frontend Developer and Backend Developer**<br/>
+💬 Ask me about Technology and **React, Metamask, Web3 js, Javascript**<br/>
+📫 How to reach me: **rakholiyajay147@gmail.com**<br/>
+😊 Pronouns: He/Him<br/>
+⚡ Fun fact * Frontend software developers are the architects of the digital user experience, crafting the visual elements and interactive features that bring websites and applications to life.*<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jay_rakholiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay rakholiya) 
