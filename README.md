@@ -25,4 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rakholiyajay&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devxprite&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
